@@ -57,17 +57,9 @@ Some of our code may use reflect metadata. It's optional otherwise.
 npm install --save-dev reflect-metadata
 ```
 
-### Stable releases available for a commercial customer
+### Commercial support
 
-For *tailored commercial release*, you may contact [our sales](mailto:info@sendanor.fi). 
-
-General rule for pricing is 500 € (or $600) / [feature](https://github.com/sendanor/ui/issues). One full stable release containing multiple 
-components is 8000 €.
-
-The payment includes a month of agile development with the customer, and a year of
-support for that release branch.
-
-
+For commercial support check [Sendanor's organization page](https://github.com/sendanor).
 
 ## Demo app
 
