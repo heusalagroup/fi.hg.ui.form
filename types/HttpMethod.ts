@@ -1,6 +1,6 @@
 // Copyright (c) 2020-2021. Sendanor <info@sendanor.fi>. All rights reserved.
 
-import {isString, trim} from "../../../ts/modules/lodash";
+import {isString, trim} from "../../../core/modules/lodash";
 
 export enum HttpMethod {
 

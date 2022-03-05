@@ -8,11 +8,11 @@ import {
     isSafeInteger,
     isString,
     TestCallbackNonStandard
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import {
     isRepositoryMember,
     RepositoryMember
-} from "../../../ts/simpleRepository/types/RepositoryMember";
+} from "../../../core/simpleRepository/types/RepositoryMember";
 
 export interface ResponseDTO<T> {
 

@@ -2,7 +2,7 @@
 
 import FormDTO, { isFormDTO } from "./FormDTO";
 import ResponseDTO, { isResponseDTO } from "./ResponseDTO";
-import { RepositoryMember } from "../../../ts/simpleRepository/types/RepositoryMember";
+import { RepositoryMember } from "../../../core/simpleRepository/types/RepositoryMember";
 
 export interface FormResponseDTO extends ResponseDTO<FormDTO> {
     readonly id       : string;

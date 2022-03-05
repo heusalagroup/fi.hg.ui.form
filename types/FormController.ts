@@ -7,8 +7,8 @@ import {
 } from "./FormControllerAction";
 import FormValue, { isFormValue, parseFormValue } from "../../components/types/FormValue";
 import FormModel, { isFormModel, parseFormModel } from "../../components/types/FormModel";
-import { isObject, isString, isUndefined, trim } from "../../../ts/modules/lodash";
-import { parseJson } from "../../../ts/Json";
+import { isObject, isString, isUndefined, trim } from "../../../core/modules/lodash";
+import { parseJson } from "../../../core/Json";
 
 export interface FormController {
 

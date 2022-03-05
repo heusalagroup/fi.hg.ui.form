@@ -6,7 +6,7 @@ import {
     isRegularObject, isString,
     isStringOrUndefined,
     isUndefined
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 
 export interface FormValueDTO {
 

@@ -7,7 +7,7 @@ import {
     isString,
     parseInteger,
     startsWith
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 
 /**
  * HTTP Status number or range of numbers.

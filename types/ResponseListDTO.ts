@@ -5,7 +5,7 @@ import {
     isArrayOf,
     isRegularObject,
     TestCallbackNonStandard
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import ResponseDTO, { isResponseDTO } from "./ResponseDTO";
 
 export interface ResponseListDTO<T> {

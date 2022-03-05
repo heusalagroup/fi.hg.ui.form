@@ -1,7 +1,7 @@
 // Copyright (c) 2021. Sendanor <info@sendanor.fi>. All rights reserved.
 
 import {FormValue} from "../../components/types/FormValue";
-import { isFunction, parseFunctionSignature } from "../../../ts/modules/lodash";
+import { isFunction, parseFunctionSignature } from "../../../core/modules/lodash";
 
 
 export interface FormSubmitCallback {

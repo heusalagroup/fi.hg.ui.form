@@ -4,7 +4,7 @@ import {
     hasNoOtherKeys,
     isRegularObject,
     isString
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import FormValue, { isFormValue } from "../../components/types/FormValue";
 
 export interface SubmitDTO {

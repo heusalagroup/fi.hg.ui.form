@@ -8,7 +8,7 @@ import FormControllerAction, {
     isFormControllerAction,
     parseFormControllerAction, stringifyFormControllerAction
 } from "./FormControllerAction";
-import { isRegularObject } from "../../../ts/modules/lodash";
+import { isRegularObject } from "../../../core/modules/lodash";
 
 
 export type HttpResponseAction = HttpStatusCodeMatcher<FormControllerAction> | FormControllerAction;

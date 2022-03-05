@@ -2,7 +2,7 @@
 
 import FormSubmitCallback, { isFormSubmitCallback } from "./FormSubmitCallback";
 import JsonHttpAction, { isJsonHttpAction } from "./JsonHttpAction";
-import { isString } from "../../../ts/modules/lodash";
+import { isString } from "../../../core/modules/lodash";
 
 
 /**

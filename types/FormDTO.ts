@@ -7,7 +7,7 @@ import {
     isRegularObject,
     isStringOrUndefined,
     isUndefined
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import PipelineRunModel, { isPipelineRunModel } from "../../../pipeline/types/PipelineRunModel";
 
 export interface FormDTO {

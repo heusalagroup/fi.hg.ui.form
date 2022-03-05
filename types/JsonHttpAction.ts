@@ -1,6 +1,6 @@
 // Copyright (c) 2021. Sendanor <info@sendanor.fi>. All rights reserved.
 
-import { isJsonArray, isJsonObject, JsonArray, JsonObject } from "../../../ts/Json";
+import { isJsonArray, isJsonObject, JsonArray, JsonObject } from "../../../core/Json";
 import { HttpResponseAction, isHttpResponseAction } from "./HttpResponseAction";
 import {
     hasNoOtherKeys,
@@ -9,7 +9,7 @@ import {
     isString,
     isStringOrUndefined, isStringOrUndefinedOf,
     isUndefined
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import HttpMethod, { HttpMethodString, isHttpMethod } from "./HttpMethod";
 
 

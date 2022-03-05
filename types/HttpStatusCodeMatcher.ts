@@ -12,7 +12,7 @@ import {
     ParserCallback,
     StringifyCallback,
     TestCallbackNonStandard
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 
 
 export interface HttpStatusCodeMatcher<T> {

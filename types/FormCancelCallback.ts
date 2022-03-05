@@ -1,6 +1,6 @@
 // Copyright (c) 2021. Sendanor <info@sendanor.fi>. All rights reserved.
 
-import { isFunction, parseFunctionSignature } from "../../../ts/modules/lodash";
+import { isFunction, parseFunctionSignature } from "../../../core/modules/lodash";
 
 
 export interface FormCancelCallback {

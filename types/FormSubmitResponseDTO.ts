@@ -6,7 +6,7 @@ import {
     isRegularObject,
     isString,
     isUndefined
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 import PublicPipelineRunDTO, { isPublicPipelineRunDTO } from "../../../pipeline/dto/PublicPipelineRunDTO";
 
 export interface FormSubmitResponseDTO {

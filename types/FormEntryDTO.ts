@@ -11,7 +11,7 @@ import {
     isString,
     isStringOrUndefined,
     isUndefined
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 
 export const FORM_ENTRY_DTO_KEYS = ['id', 'formId', 'formModel', 'formVersion', 'value', 'formPipeline'];
 

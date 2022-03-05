@@ -2,9 +2,9 @@
 
 import {
     map
-} from "../../../ts/modules/lodash";
+} from "../../../core/modules/lodash";
 
-import RepositoryEntry from "../../../ts/simpleRepository/types/RepositoryEntry";
+import RepositoryEntry from "../../../core/simpleRepository/types/RepositoryEntry";
 import ResponseListDTO from "../types/ResponseListDTO";
 import ResponseDTO from "../types/ResponseDTO";
 
