@@ -4,8 +4,6 @@ Core UI library for our commercial Form App software.
 
 For now this repository is mostly for [issue tracking](https://github.com/heusalagroup/fi.hg.ui/issues) and demo purposes.
 
-### It's MIT licenced
-
 ### It doesn't have many runtime dependencies (if any)
 
 This library expects some of our libraries to exist in relative paths:
@@ -15,10 +13,6 @@ This library expects some of our libraries to exist in relative paths:
  * [@heusalagroup/fi.hg.ui.components](https://github.com/heusalagroup/fi.hg.ui.components) to be located in the relative path `../components`
 
 The only 3rd party dependency we have is for [Lodash library](https://lodash.com/).
-
-### It's well tested
-
-Our unit tests exists beside the code. To run tests, check out our test repository [@heusalagroup/fi.hg.test](https://github.com/heusalagroup/fi.hg.test).
 
 ### We don't have traditional releases
 
@@ -137,3 +131,7 @@ We also have a react component to render the form -- but it has not been release
     cancel={() => {}}
 />
 ```
+
+### License
+
+Copyright (c) Heusala Group. All rights reserved. Licensed under the MIT License (the "[License](./LICENSE)");
