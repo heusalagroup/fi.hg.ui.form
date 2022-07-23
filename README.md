@@ -1,3 +1,9 @@
+# ***OBSOLETE! DEPRECATED!***
+
+See [fi.hg.frontend](https://github.com/heusalagroup/fi.hg.frontend)
+
+----------------
+
 # @heusalagroup/fi.hg.ui.components
 
 Core UI library for our commercial Form App software.
